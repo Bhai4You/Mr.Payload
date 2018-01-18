@@ -80,7 +80,7 @@ when "1"
       system("ifconfig")
 	puts
 	puts
-	puts " \e[1m\e[31m[ 3RR0R ] : \e[32mYour inet addr not show bcoz your data connection is off so make sure your internet is on. than copy inet addr and past it.. or you can use ngrok address\e[0m"
+	puts " \e[1m\e[31m[ 3RR0R ] : \e[32mYour inet addr not showing bcoz your data connection is off so make sure your internet is on. then copy inet addr and paste it.. or you can use ngrok address\e[0m"
 	puts
 	puts
       print "\e[1m\e[33minet addr \n\n(LHOST) :\e[31m $\e[0m\e[1m "
@@ -131,7 +131,7 @@ when "Payload"
       system("ifconfig")
 	puts
 	puts
-	puts " \e[1m\e[31m[ 3RR0R ] : \e[32mYour inet addr not show bcoz your data connection is off so make sure your internet is on. than copy inet addr and past it..or you can use ngrok address\e[0m"
+	puts " \e[1m\e[31m[ 3RR0R ] : \e[32mYour inet addr not showing bcoz your data connection is off so make sure your internet is on.  then copy inet addr and paste it..or you can use ngrok address\e[0m"
 	puts
 	puts
       print "\e[1m\e[33minet addr \n\n(LHOST) :\e[31m $\e[0m\e[1m "
