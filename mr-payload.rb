@@ -65,7 +65,7 @@ puts "\e[1m\t\t     2)\e[32m Exit\e[0m "
 puts
 puts
 puts
-print "\e[1m\e[33mWhat is Your Choich (\e[0m 1 \e[33m\e[1mor\e[0m 2 \e[33m\e[1m) \e[32m: \e[0m"
+print "\e[1m\e[33mWhat is Your Choice (\e[0m 1 \e[33m\e[1mor\e[0m 2 \e[33m\e[1m) \e[32m: \e[0m"
 
 payload = gets.chomp
 case payload
@@ -181,7 +181,7 @@ when "payload"
       system("ifconfig")
 	puts
 	puts
-	puts " \e[1m\e[31m[ 3RR0R ] : \e[32mYour inet addr not show bcoz your data connection is off so make sure your internet is on. than copy inet addr and past it..or you can use ngrok address\e[0m"
+	puts " \e[1m\e[31m[ 3RR0R ] : \e[32mYour inet addr not showing bcoz your data connection is off so make sure your internet is on. then copy inet addr and paste it..or you can use ngrok address\e[0m"
 	puts
 	puts
       print "\e[1m\e[33minet addr \n\n(LHOST) :\e[31m $\e[0m\e[1m "
@@ -228,7 +228,7 @@ system "echo ----------------------------------------------------------: | lolca
 puts
 puts "\e[1m\t   \e[33m We Are Bull Anonymous...Expect Us !!!\e[0m"
 puts
-puts "\e[1m\t    \e[32m     Our Weapon is Danger Idea !!!"
+puts "\e[1m\t    \e[32m     Our Weapon is a Danger Idea !!!"
 puts
 puts " \e[1m\t\t\e[31m   Everything is Possible \e[0m "
 puts
