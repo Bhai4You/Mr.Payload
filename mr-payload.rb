@@ -228,7 +228,7 @@ system "echo ----------------------------------------------------------: | lolca
 puts
 puts "\e[1m\t   \e[33m We Are Bull Anonymous...Expect Us !!!\e[0m"
 puts
-puts "\e[1m\t    \e[32m     Our Weapon is a Danger Idea !!!"
+puts "\e[1m\t    \e[32m    Our Weapon is a Danger Idea !!!"
 puts
 puts " \e[1m\t\t\e[31m   Everything is Possible \e[0m "
 puts
